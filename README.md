@@ -8,3 +8,9 @@
 
 - 页面：`index.html`（零依赖，单文件，含头像）
 - 访问：https://entronpy.github.io/card/
+
+## 与 NFC 制卡网站的区别
+
+本仓库展示 ColdFish 的个人名片；[nfc](https://github.com/Entronpy/nfc) 仓库提供 NFC 卡片内容定制工具。
+
+仓库名 `card` 保留，以维持现有网站地址与 NFC 标签链接。
